@@ -6,8 +6,8 @@
  * - Implemented using a dynamic array (vector)
  * - Supports insertion, deletion, and peek operations
  * 
- * Author: [Your Name]
- * Date: [Current Date]
+ * Author: [Akila Maksud]
+ * Date: [09.09.2025]
  */
 
 #include<iostream>
@@ -181,4 +181,5 @@ int main() {
     cout << "Heap after adding 1: " << minHeap.toString() << endl;
     
     return 0;
+
 }
