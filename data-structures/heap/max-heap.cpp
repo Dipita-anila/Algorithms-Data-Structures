@@ -15,8 +15,8 @@
  * 
  * Space Complexity: O(n)
  * 
- * Author: [Your Name]
- * Date: [Current Date]
+ * Author: [Akila Maksud]
+ * Date: [09.09.25]
  */
 
 #include<iostream>
@@ -203,4 +203,5 @@ int main() {
     maxHeap.add(6);
     maxHeap.add(7);
     
+
     // Display current heap state (level-ord
